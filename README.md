@@ -29,10 +29,10 @@ Capacidade de comentar nas fotos.
 * Banco de Dados: Pode-se utilizar SQLite para um projeto inicial e escalável para opções mais robustas como MySQL ou PostgreSQL.
 
 #### 6. Estrutura Básica:
-Página de Cadastro/Login: Rotas para registro e login de usuários.
-Página Principal (Feed Global): Mostra todas as imagens compartilhadas pelos usuários.
-Perfil do Usuário: Uma página que exibe as imagens específicas de um usuário e suas informações.
-Upload de Imagens: Rota para os usuários fazerem o upload de suas fotos.
++ Página de Cadastro/Login: Rotas para registro e login de usuários.
++ Página Principal (Feed Global): Mostra todas as imagens compartilhadas pelos usuários.
++ Perfil do Usuário: Uma página que exibe as imagens específicas de um usuário e suas informações.
++ Upload de Imagens: Rota para os usuários fazerem o upload de suas fotos.
 
 ### Desenvolvimento Passo a Passo:
 #### Configuração do ambiente Flask.
