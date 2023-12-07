@@ -44,8 +44,23 @@ Integração com banco de dados para armazenar informações de usuários e imag
 
 Adaptando o projeto para o nome "Feed Imagens", os objetivos e funcionalidades permanecem os mesmos, com foco na interação dos usuários por meio de compartilhamento e visualização de fotos. Boa sorte com o desenvolvimento!
 
-Homepage
+### Imagens Frontend.
+Homepage e Login
 ![image](https://github.com/wdesouza95/feedimagens/assets/114028870/a618a899-c019-425a-b886-39445a44e05b)
 
+Criar conta
+![image](https://github.com/wdesouza95/feedimagens/assets/114028870/7494ce1d-f584-41be-842e-a6cef43bd49b)
 
-link: https://feedimagens.onrender.com
+Perfil com fotos do usuario
+![image](https://github.com/wdesouza95/feedimagens/assets/114028870/df74e7f4-3724-4c89-b127-f767219c9860)
+
+Feed com todas as imagens do site
+![image](https://github.com/wdesouza95/feedimagens/assets/114028870/a93d2d9f-0e44-4cc4-8edf-517e2dcd76a9)
+
+Visitando perfil de outro usuário
+![image](https://github.com/wdesouza95/feedimagens/assets/114028870/5a88bf68-d7b8-4951-9b52-7686143a54a5)
+
+
+
+
+
