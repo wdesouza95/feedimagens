@@ -36,10 +36,11 @@ Upload de Imagens: Rota para os usuários fazerem o upload de suas fotos.
 
 ### Desenvolvimento Passo a Passo:
 #### Configuração do ambiente Flask.
-* Criação das rotas e templates para registro e login de usuários.
-* Implementação da lógica para upload de imagens.
-* Desenvolvimento das páginas para exibição do feed global e do feed individual de usuários.
-* Integração com banco de dados para armazenar informações de usuários e imagens.
+
+- Criação das rotas e templates para registro e login de usuários.
+- Implementação da lógica para upload de imagens.
+- Desenvolvimento das páginas para exibição do feed global e do feed individual de usuários.
+- Integração com banco de dados para armazenar informações de usuários e imagens.
 
 
 Adaptando o projeto para o nome "Feed Imagens", os objetivos e funcionalidades permanecem os mesmos, com foco na interação dos usuários por meio de compartilhamento e visualização de fotos. Boa sorte com o desenvolvimento!
